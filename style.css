@@ -1,0 +1,145 @@
+body {
+	background-color:aliceblue;
+}
+
+.container {
+	color:#FFFBAC;
+	margin: 50px auto;
+	max-width: 370px;
+	background-color:#181823;
+	padding: 50px;
+	text-align: center;
+	border: 5px solid #FFD93D;
+}
+
+h1{
+	font-family: serif;
+	font-weight: lighter;
+	font-size: 3rem;
+	color:#FFD93D;
+	text-decoration:underline overline;
+}
+h2{
+	font-family: 'Dancing Script', cursive;
+	font-size: 2rem;
+}
+h3.invite{
+	color: #FFD93D;
+}
+h4#venue{
+	color: #FFD93D;
+	font-size: 1.5rem;
+}
+
+img{
+	height: 150px;
+	width: 150px;
+}
+.container p{
+	color:#FFFBAC;
+}
+.circle1{
+	position: absolute;
+	top: 5px;
+	left: 5px;
+	border-radius: 50%;
+	height: 55px;
+	width: 55px;
+	background-color: #ADE4DB;
+}
+.circle2{
+	position: absolute;
+	top: 10px;
+	left: 60px;
+	border-radius: 50%;
+	height: 45px;
+	width: 45px;
+	background-color: #E3F2C1;
+}
+.circle3{
+	position: absolute;
+	top: 15px;
+	left: 105px;
+	border-radius: 50%;
+	height: 35px;
+	width: 35px;
+	background-color: #ADE4DB;
+}
+.circle4{
+	position: absolute;
+	top: 20px;
+	left: 140px;
+	border-radius: 50%;
+	height: 25px;
+	width: 25px;
+	background-color: #E3F2C1;
+}
+.circle5{
+	position: absolute;
+	top: 25px;
+	left: 165px;
+	border-radius: 50%;
+	height: 15px;
+	width: 15px;
+	background-color: #ADE4DB;
+}
+.circle6{
+	position: absolute;
+	bottom: 25px;
+	right: 165px;
+	border-radius: 50%;
+	height: 15px;
+	width: 15px;
+	background-color: #ADE4DB;
+}
+.circle7{
+	position: absolute;
+	bottom: 20px;
+	right: 140px;
+	border-radius: 50%;
+	height: 25px;
+	width: 25px;
+	background-color: #E3F2C1;
+}
+.circle8{
+	position: absolute;
+	bottom:15px;
+	right: 105px;
+	border-radius: 50%;
+	height: 35px;
+	width: 35px;
+	background-color: #ADE4DB;
+}
+.circle9{
+	position: absolute;
+	bottom: 10px;
+	right: 60px;
+	border-radius: 50%;
+	height: 45px;
+	width: 45px;
+	background-color: #E3F2C1;
+}
+.circle10{
+	position: absolute;
+	bottom: 5px;
+	right: 5px;
+	border-radius: 50%;
+	height: 55px;
+	width: 55px;
+	background-color: #ADE4DB;
+}
+
+img.balloon{
+	position: absolute;
+	top: 50px;
+	left: 50px;
+	margin: 10px;
+}
+.container img{
+	width: 450px;
+}
+.container{
+	position: relative;
+	top: 20px;
+	left: 50px;
+}
